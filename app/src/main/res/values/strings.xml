@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task 2</string>
+    <string name="Second_page">Second page</string>
+    <string name="Third_page">Third page</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
